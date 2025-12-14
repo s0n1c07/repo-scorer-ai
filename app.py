@@ -121,7 +121,6 @@ Be critical but fair. Score based on code quality, documentation, popularity, ac
 # Streamlit App Layout
 def main():
     st.title("🥇 Repo Scorer AI")
-    st.markdown("## GitGrade Hackathon: Repository Mirror")
     st.caption("Automated GitHub Repository Analysis powered by Gemini 2.5 Flash.")
     st.divider()
 
